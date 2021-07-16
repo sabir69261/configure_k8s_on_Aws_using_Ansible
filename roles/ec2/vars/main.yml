@@ -1,0 +1,12 @@
+---
+# vars file for ec2
+
+inventorypath: "/etc/ip.txt"
+amiid: "ami-0577b787189839998"
+instancetype: "t2.micro"
+subnetid: "subnet-8626e9dc"
+sgname: "ansible"
+keyname: "ss"
+regionname:  "us-west-1"
+#accesskey: "AKIAS3J7G3S5YPMSBGDJ"
+#secretkey: "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"
